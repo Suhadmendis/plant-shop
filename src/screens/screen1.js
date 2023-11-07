@@ -27,15 +27,7 @@ const icon3 = require("../assets/icons/icon3.png");
 const screen1 = () => {
 
 
-  const [fontsLoaded] = useFonts({
-    'CharterBlackBT': require('../assets/fonts/CharterBlackBT.ttf'),
-    'CharterBT': require('../assets/fonts/CharterBT.ttf'),
 
-  });
-
-  if (!fontsLoaded) {
-    return null;
-  }
 
   return (
     <View style={styles.container}>
