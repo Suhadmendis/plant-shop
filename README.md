@@ -15,4 +15,4 @@ Welcome to the Plant Shop, a React Native starter kit designed to jumpstart your
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/plant-shop-react-native.git
+   git clone https://github.com/Suhadmendis/plant-shop-react-native.git
