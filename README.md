@@ -4,11 +4,8 @@ Welcome to the Plant Shop, a React Native starter kit designed to jumpstart your
 
 ## Features
 
-- **Cross-Platform Compatibility**: Works on iOS and Android.
 - **Clean & Organized Code**: Well-structured codebase with comments.
 - **Customizable UI**: A beautiful and customizable user interface.
-- **State Management**: Pre-configured state management setup.
-- **Backend Integration**: Ready-to-use API integration logic.
 
 
 
