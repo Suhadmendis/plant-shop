@@ -1,6 +1,6 @@
 # Plant Shop - React Native Starter Kit
 
-Welcome to the Plant Shop, a React Native starter kit designed to jumpstart your mobile app development. This project is crafted to provide a smooth and ready-to-use template for e-commerce applications focusing on plant sales.
+Welcome to the Plant Shop, a React Native starter kit designed to jumpstart your mobile app UI development.
 
 ## Features
 
