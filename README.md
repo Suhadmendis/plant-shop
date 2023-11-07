@@ -10,6 +10,16 @@ Welcome to the Plant Shop, a React Native starter kit designed to jumpstart your
 - **State Management**: Pre-configured state management setup.
 - **Backend Integration**: Ready-to-use API integration logic.
 
+
+
+
+## YouTube Channel
+
+Check out our YouTube channel for tutorials and updates:
+
+[![YouTube Channel](https://yt3.ggpht.com/jQOwjnfTpBj4Zs24jYXNkw-ncRKrRZEOgZYq1JFFRi715vTh28C_4gMSH38m3cAXWeJ-i50xIw=s108-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIQZ6LDY633CltVQvde04Dg)
+
+
 ## Getting Started
 
 1. **Clone the repository:**
